@@ -28,8 +28,6 @@ Inside this repo you will find a **Next.js voice application** — the same Voic
    HUME_API_KEY=
    HUME_SECRET_KEY=
    NEXT_PUBLIC_HUME_VOICE_HOSTNAME="api.hume.ai"
-   NEXT_PUBLIC_HUME_VOICE_WEATHER_CONFIG_ID=
-   NEXT_PUBLIC_GEOCODE_API_KEY=
    HUME_CONFIG_ID=
    ```
 
