@@ -1,4 +1,4 @@
-# Frontier AI — OpenClaw Course
+# Fronteir AI — OpenClaw Course
 
 This repository is the official GitHub home for the **Frontier AI OpenClaw Course**. It ships everything you need to follow along with the curriculum and experiment with the same tooling demonstrated in the lessons.
 
